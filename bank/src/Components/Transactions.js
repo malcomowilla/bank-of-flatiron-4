@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState } from "../../public/node_modules/@types/react"
 import TransactionItem from "./TransactionItem"
 
 function Transactions() {
